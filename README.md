@@ -5,4 +5,6 @@ The dataset is prepared by extracting features from images in a tabular format
 ### Algorithms used:
 - KNN
 - SVM
--XGBoost
+- Random Forest
+- Nave Bayes
+- Principal Component Analysis
