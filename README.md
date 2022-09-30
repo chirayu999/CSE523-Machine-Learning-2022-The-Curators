@@ -1,2 +1,2 @@
 # CSE523-Machine-Learning-2022-The-Curators
-Machine Learning Project
+This is a Machine Learning Project
