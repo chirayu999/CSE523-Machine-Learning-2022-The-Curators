@@ -9,4 +9,4 @@ The aim of the Project is to detect breast cancer from tabular dataset of medica
 - SVM
 - Random Forest
 - Nave Bayes
-- Principal Component Analysis
+- PCA
